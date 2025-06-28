@@ -71,6 +71,7 @@
 //     </section>
 //   )
 // }
+// i commented out the above code because it was not using the new design system and components. Below is the updated version of the ServicesSection component that uses the new design system.
 
 
 

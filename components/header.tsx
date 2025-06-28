@@ -38,6 +38,7 @@ export default function Header() {
 
             {/* Desktop Navigation */}
             <nav className="hidden md:flex items-center space-x-8">
+
               <button onClick={() => scrollToSection("about")} className="text-gray-700 hover:text-teal-700">
                 About
               </button>
@@ -55,7 +56,7 @@ export default function Header() {
               </Button>
             </nav>
 
-            {/* Mobile Menu Button */}
+            {/* Mobile Menu Button for responsive design*/}
             <button className="md:hidden" onClick={() => setIsMenuOpen(!isMenuOpen)}>
               {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
             </button>

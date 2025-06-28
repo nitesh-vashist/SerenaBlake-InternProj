@@ -11,7 +11,7 @@ const faqs = [
   {
     question: "Are online sessions available?",
     answer:
-      "Yes! I offer virtual sessions via Zoom on Mondays, Wednesdays, and Fridays from 1 PM to 5 PM. Online therapy can be just as effective as in-person sessions and offers the convenience of receiving care from the comfort of your own space.",
+      "Yes! I offer virtual sessions via Zoom on Mondays, Wednesdays, and Fridays from 1 PM to 5 PM. Online therapy can be just as effective as in-person sessions and offers the convenience of receiving care from the comfort of your own space,feel free to book one.",
   },
   {
     question: "What is your cancellation policy?",
